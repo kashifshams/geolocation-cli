@@ -23,6 +23,7 @@ This CLI utility fetches the latitude and longitude coordinates for given locati
 3. Create a `.env` file in the root directory and add your **OpenWeather API Key**:
    ```env
    API_KEY=your_openweather_api_key
+   Refer to example .env file or same can be used 
    ```
 
 ## Usage
