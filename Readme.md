@@ -11,7 +11,7 @@ This CLI utility fetches the latitude and longitude coordinates for given locati
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kashifshams/geolocation-cli.git
    cd GeoCodeLocation
    ```
 
